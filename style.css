@@ -1,27 +1,28 @@
-.ui.borderless.topmenu.menu {
-  background-color: #f5f5f5;
-  box-shadow: none;
-  border: none;
+.ui.attached.stackable.menu{
+  background-color: #222;
+  color: whitesmoke;
 }
-.ui.borderless.middlemenu.menu {
-  box-shadow: none;
-  border: none;
+
+.ui.fluid.image{
+  height: 80%
+}
+.ui.big.image{
+  height: 500px;
+}
+.ui.three.column.relaxed.grid{
+  padding-top: 40px;
 }
 .footer-background{
-  background-color: #232f3e;
-  padding-bottom: 0;
-  padding-top: 0;
-  min-width: 1000px;
-  color:white;
-  position: relative;
-}
-.ui.medium.centered.image{
-  height:500px;
-  width: 50%;
+  padding-top: 50px;
+  color: #888;
+  background-color: #2e2e2e
 }
 
-.ui.borderless.footer.menu{
-
-  background-color: #232f3e;
-  color:white;
+h4{
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.ui.icon.input{
+  background-color: #2e2e2e;
 }
